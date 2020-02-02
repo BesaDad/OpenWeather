@@ -1,0 +1,11 @@
+C:\Users\PAVILION15\source\repos\OpenWeather\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\PAVILION15\source\repos\OpenWeather\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\PAVILION15\source\repos\OpenWeather\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION15\source\repos\OpenWeather\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\PAVILION15\source\repos\OpenWeather\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\PAVILION15\Documents\OpenWeather\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\PAVILION15\Documents\OpenWeather\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\PAVILION15\Documents\OpenWeather\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+C:\Users\PAVILION15\Documents\OpenWeather\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION15\Documents\OpenWeather\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\PAVILION15\Documents\OpenWeather\Infrastructure\obj\Debug\Infrastructure.pdb
